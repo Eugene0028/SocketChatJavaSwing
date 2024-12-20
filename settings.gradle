@@ -1,0 +1,6 @@
+rootProject.name = 'SocketChatSwing'
+include 'task6'
+include 'common'
+include 'server'
+include 'client'
+
